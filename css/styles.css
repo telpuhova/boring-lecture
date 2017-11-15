@@ -1,0 +1,11 @@
+h2.intro {
+  font-weight: bold;
+  font-style: italic;
+}
+
+img.intro {
+  border-style: dotted;
+}
+p.intro {
+  font-style: italic;
+}
